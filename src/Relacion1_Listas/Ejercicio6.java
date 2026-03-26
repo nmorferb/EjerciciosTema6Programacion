@@ -1,4 +1,4 @@
-package Relacion1;
+package Relacion1_Listas;
 
 import java.util.Scanner;
 

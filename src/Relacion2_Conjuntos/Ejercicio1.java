@@ -1,4 +1,4 @@
-package Relacion2;
+package Relacion2_Conjuntos;
 
 import java.util.HashSet;
 import java.util.Set;
